@@ -1,0 +1,59 @@
+body {
+  font-family: "Poppins";
+}
+
+h1 {
+  text-align: left;
+}
+
+h3,
+footer small {
+  text-align: left;
+}
+
+.col,
+.current-weather {
+  color: #3e4a61;
+  text-align: center;
+}
+
+.current-weather {
+  font-weight: bolder;
+  line-height: 200px;
+  font-size: 250px;
+}
+
+.col {
+  padding: 20px;
+  border: 2px solid;
+  border-radius: 30px;
+  background: #d9dad7;
+  margin: 0 auto;
+  font-size: 18px;
+  box-shadow: 7px 7px 5px #3e4a61;
+}
+
+.btn-secondary {
+  text-align: center;
+  width: 55%;
+  font-family: "Libre Baskerville", serif;
+  background: #9ba6a5;
+  box-shadow: 5px 5px 10px #3e4a61;
+  margin-top: 5px;
+  display: inline;
+}
+
+.container {
+  border: 5px solid #9ba6a5;
+  border-radius: 15px;
+  background: linear-gradient(
+    180.3deg,
+    rgb(221, 221, 221) 5.5%,
+    rgb(110, 136, 161) 90.2%
+  );
+  padding: 10px 25px;
+}
+
+.mb-3 {
+  width: 55%;
+}
